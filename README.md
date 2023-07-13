@@ -2,4 +2,4 @@
 This Repo includes the source codes to 21 Days challenges course of Kevin Powell on Conquering responsive layouts
 
 ### Live at my codepen: 
-[https://codepen.io/your-work](https://codepen.io/shahzaib-ai)
+https://codepen.io/shahzaib-ai
